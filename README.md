@@ -12,7 +12,7 @@ A little presentation of what I can do and what are my caracteristic
 <li>📞 Don't hesitate to contact me on Discord Splash#2921 </li>
 </ul>
 <br>
-👨‍💻 The <> languages I'm learning : 
+👨‍💻 The differents languages I'm learning : 
 <ul>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
