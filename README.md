@@ -1,6 +1,7 @@
 <h1 align = center> Hi there 👋 </h1>
 <h2 align = center> My name is Romain </h2>
 
+![Jan De Dobeleer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spl4shht&show_icons=true)
 -------
   
 A little presentation of what I can do and what are my caracteristic
