@@ -1,7 +1,9 @@
 <h1 align = center> Hi there 👋 </h1>
 <h2 align = center> My name is Romain </h2>
 
-![Jan De Dobeleer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spl4shh&show_icons=true)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Spl4shh&show_icons=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Spl4shh&show_icons=true&locale=en&layout=compact" alt="stats" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Spl4shh&" alt="stats" />
 -------
   
 A little presentation of what I can do and what are my caracteristic
