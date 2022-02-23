@@ -11,7 +11,7 @@ A little presentation of what I can do and what are my caracteristic
 <ul>  
 <li>🔭 I’m able to developp on Web (HTML, CSS, JS, PHP, JavaScript, Symfony) or in different language (Java, C, SQL) </li>
 <li>👨🏼‍🤝‍👨🏻 I easilly collaborate with people and I'll be glad to help you </li>
-<li>📚 I'm in a cursus to be a developper in 5 Year (french : DUT -> Engineering School) </li>
+<li>📚 I'm in a cursus to be a developper in 5 Year (DUT -> Engineering School) </li>
 <li>📞 Don't hesitate to contact me on Discord Splash#2921 </li>
 </ul>
 <br>
