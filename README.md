@@ -1,9 +1,10 @@
 <h1 align = center> Hi there 👋 </h1>
 <h2 align = center> My name is Romain </h2>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Spl4shh&show_icons=true">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Spl4shh&show_icons=true&locale=en&layout=compact" alt="stats" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Spl4shh&" alt="stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Spl4shh&show_icons=true"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Spl4shh&" alt="stats" />
+<div align="center">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Spl4shh&show_icons=true&locale=en&layout=compact" alt="stats" />
+</div>
 
 -------
   
